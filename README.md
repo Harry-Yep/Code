@@ -6,4 +6,4 @@ Interesting and useful code will be stored here.
 
 MIT
 
-> The code is open source. Harry Yep is not the author for all code. LICENSE will be marked if own by another person, check at [code.harrly.com](https://code.harrly.com)
+> The code is open source. Harry Yep is not the author of all codes. LICENSE will be marked if owned by another person, check at [code.harrly.com](https://code.harrly.com)
